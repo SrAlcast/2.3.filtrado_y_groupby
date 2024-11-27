@@ -38,10 +38,3 @@ Este laboratorio te enseñará a **agrupar datos** usando el método `groupby()`
 
 - Python 3.x
 - Librerías: `pandas`, `numpy`
-
-## 💻 Instrucciones para Ejecutar
-
-1. **Clona** este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repo.git
- 
